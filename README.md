@@ -33,8 +33,8 @@
 > 25+ hands-on machine learning and deep learning models  
 > 🧠 Breast Cancer Detection | 📈 Stock & Salary Prediction | 🎮 AI Snake Game | 🗣️ NLP Sentiment Analysis
 
-#### 🤖 Autonomous UGV for Military Use
-> Designed an Unmanned Ground Vehicle using ROS2, SLAM, and GPS navigation to support defense missions.
+#### 🤖 Autonomous UGV for Commercial Purpose
+> Designed an Unmanned Ground Vehicle using ROS2, SLAM, and GPS navigation to support Connercial missions.
 
 #### 📱 [Identity App](https://github.com/harishjungshahi)
 > A Flutter-based digital business card app for sustainable data sharing, powered by Firebase.
