@@ -17,14 +17,6 @@
 </p>
 
 ---
-
-### 🔧 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,ros,tensorflow,sklearn,git,jupyter,vscode" />
-</p>
-
----
 ### 🧠 About Me
 
 - 🎓 Mechanical Engineering Graduate (First Class with Distinction)
