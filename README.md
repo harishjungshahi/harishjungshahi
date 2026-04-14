@@ -76,6 +76,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishjungshahi&theme=tokyo-night"/>
 </p>
 
+### 📅 Contribution Calendar (2024)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/harishjungshahi?year=2024" />
+</p>
 
 ### 🌍 Connect with Me
 
