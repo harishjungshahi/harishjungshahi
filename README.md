@@ -66,6 +66,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://ghchart.rshah.org/harishjungshahi" />
+</p>    
 
 ### 🌍 Connect with Me
 
