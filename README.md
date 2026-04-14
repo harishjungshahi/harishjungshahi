@@ -65,10 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishjungshahi&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
-<p align="center">
-  <img src="https://ghchart.rshah.org/harishjungshahi" />
-</p>    
 
 ### 📅 Contribution Activity
 
