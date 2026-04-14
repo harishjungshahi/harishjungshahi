@@ -107,7 +107,8 @@
 - 🏅 Finalist – UDAAN Business Plan Competition  
 - 🏅 Finalist – VisionTechFest TechThon  
 - 🥉 KCIST Final Year Project Award  
-- 🥋 Bronze Medal – Inter-Zonal Judo   
+- 🥋 Bronze Medal – Inter-Zonal Judo
+- 
 ### 🚀 Featured Projects (Interactive Previews)
 
 <table>
@@ -129,14 +130,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 Achievements & Recognition
-
-- 🏅 Finalist – UDAAN Business Plan Competition & VisionTechFest  
-- 🥉 KCIST Final Year Project Award  
-- 🥋 Bronze – Inter-Zonal Judo Competition  
 
 ---
 
