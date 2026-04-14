@@ -70,6 +70,16 @@
   <img src="https://ghchart.rshah.org/harishjungshahi" />
 </p>    
 
+### 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/harishjungshahi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishjungshahi&theme=tokyo-night"/>
+</p>
+
 ### 🌍 Connect with Me
 
 <p align="center">
